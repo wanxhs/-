@@ -3,6 +3,7 @@ publice class HelloWorld{
 		System.out.pinlrn("你好世界!")
 		System.out.pinlrn("你好世界!")
 		System.out.pinlrn("你好世界!")
+		System.out.pinlrn("你好世界!")
 
 	}
 }
